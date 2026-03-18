@@ -1,16 +1,5 @@
 # Python
 __pycache__/
-*.py[cod]
-*.pyo
-.Python
-*.egg-info/
-dist/
-build/
-.eggs/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb
 
 # Virtual environment
 venv/
